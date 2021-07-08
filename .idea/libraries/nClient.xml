@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../../../../SoftwareAG4/UniversalMessaging/lib/nClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
